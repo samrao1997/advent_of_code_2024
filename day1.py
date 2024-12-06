@@ -21,7 +21,7 @@ def solve():
             distance.append(abs(list1[iter] - list2[iter]))
             iter += 1
 
-        return sum(distance)
+    return sum(distance)
     
     
 def solve2():
